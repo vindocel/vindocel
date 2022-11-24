@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/804753584947462144/1045373703275413544/AREmoji_20221124_131242.jpg?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="130" width="130" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/804753584947462144/1045388608015695972/Design_sem_nome.gif">
 </div>
 
 ##
