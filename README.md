@@ -23,6 +23,8 @@
  <a href="VindoCel#3491" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:victor123tito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/vindocel/vindocel/blob/output/github-contribution-grid-snake.svg)
+
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/vindocel/vindocel/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/vindocel/vindocel/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
   
 </div>
